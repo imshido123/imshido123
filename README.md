@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there, this is Luis Duran! 👋
 
+[ Passionate about 🎵 🍻 💻 ]
+
+- 🔭 I’m currently working with ReactJS and NodeJS
+- 🌱 I’m currently learning React Native and MongoDB
+- 👯 I’m looking to collaborate on translation projects: I'm a fluent English speaker / native Spanish speaker.
+- 📫 Feel free to contact me at [lujadr@hotmail.com](lujadr@hotmail.com)
 <!--
 **imshido123/imshido123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
